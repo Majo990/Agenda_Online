@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "314242365737",
+    "project_id": "optimum-column-387217",
+    "storage_bucket": "optimum-column-387217.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314242365737:android:00d9467546d1ae2b225f38",
+        "android_client_info": {
+          "package_name": "com.majo.cliente.agenda_online"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "314242365737-nug9gbsdtib4lqdjrnl7rpe7jo273m4t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.majo.cliente.agenda_online",
+            "certificate_hash": "b4dfd4686a23a455b9e9c1432b420f071559f5fc"
+          }
+        },
+        {
+          "client_id": "314242365737-vahmjk6dtruhjb2iur1fo59a1hk3eprr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYOFgMZUQBTqFI0r3WPNAd3xgPVnZPiVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "314242365737-vahmjk6dtruhjb2iur1fo59a1hk3eprr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
